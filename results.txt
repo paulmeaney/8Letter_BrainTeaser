@@ -4724,3 +4724,5 @@ adverser
 1,2,3,3,5,1,7,
 adverses
 1,2,3,3,5,1,7,
+     153
+cat results.txt  | grep -Eo D* | grep -Eo S+ | sort -u | wc -l
