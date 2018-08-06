@@ -1,0 +1,9 @@
+start with single letter
+
+1.Is it a word?
+   -No next letter
+   -Yes add new letter to start
+    2.Is it a word?
+      -3No is there another position?
+          -4Yes Is it a word?
+            -Yes Go to 1.
